@@ -1,1 +1,1 @@
-# study_cs
+# Computer Science Vorbereitungen
